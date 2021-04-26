@@ -5,7 +5,7 @@ Aulas do Curso da DIO Desmistificando as funções Map, Filter, Reduce no JavaSc
 /* FILTER */
 
 Array.prototype.filter()
-- Cria um novo array com todos os elementos que passaram no teste da função fornecida.
+// - Cria um novo array com todos os elementos que passaram no teste da função fornecida.
   var newArray = arr.filter(callback[,thisArg])
 
 
