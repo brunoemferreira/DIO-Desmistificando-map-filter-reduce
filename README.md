@@ -2,7 +2,7 @@
 Aulas do Curso da DIO Desmistificando as funções Map, Filter, Reduce no JavaScript.
 
 ```javascript
-/* FILTER */
+/* -------------------------------------- FILTER ---------------------------------------- */
 
 Array.prototype.filter()
 // - Cria um novo array com todos os elementos que passaram no teste da função fornecida.
