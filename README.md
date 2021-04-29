@@ -21,8 +21,9 @@ var uniqueProducts = array.filter( function( elem, i array ){
    return array.indexOf( elem ) === i;
 } );
 
-
-// EXEMPLO 2
+Array.prototype.map()
+// Chama o callback para cada elemento e devolve um novo array com a mesma quantidade de itens
+  var newArray = arr.map(callback[, thisArg])
 
 
 ```
